@@ -1,0 +1,37 @@
+#baitap
+{
+    margin: auto;
+    font-size:60px;
+    background-position: bottom;
+    background-image: linear-gradient(red,blue,green);
+    text-align: center;
+}
+.active
+{
+    background-position:right;
+}
+h2{
+    color:darkcyan;
+}
+.joy
+{
+    color:brown;
+    text-align:var(50px);
+}
+body
+{
+    background:dimgrey  url("https://scontent.fsgn3-1.fna.fbcdn.net/v/t1.15752-9/283455575_594048068440321_5237119173663008650_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=BBOlaFx0ufQAX-OR8Lm&_nc_ht=scontent.fsgn3-1.fna&oh=03_AVJ4lo6BamxH7p_AFgekd4P7HxBCoebEMIA6Fjv43AfE6g&oe=62D8EB1B");
+    background-repeat:no-repeat;
+    height:100%;
+    
+}
+p{
+    color:darkkhaki;
+}
+h3{
+    color:darkorchid;
+    font-size:30px;
+}
+.box{
+    backdrop-filter:inherit;
+}
